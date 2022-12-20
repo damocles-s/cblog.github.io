@@ -3,9 +3,9 @@
     <div>
       <NuxtLogo />
       <h1 class="title">
-        blog
+        blog 凤！
       </h1>
-      <h2 class="subtitle">
+      <!-- <h2 class="subtitle">
         Welcome to the View UI + Nuxt.js template
       </h2>
       <div class="links">
@@ -18,7 +18,7 @@
         <Button target="_blank" rel="noopener noreferrer" to="https://www.iviewui.com/">
           View UI
         </Button>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
